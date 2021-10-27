@@ -8,3 +8,6 @@ Register User Form Using Servlet.
 HTMl contains UI design of the Form 
 Along with that it takes a parameters like name,password,mail,country.
 
+xml file contains path what to run first , from where data will come , which page will be redirected.
+
+java files has database connectivety , fetching parameters redirecting , etc...
